@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @K4rlosReyes
-- 👀 I’m interested in Machine Learning and Linux
-- 🌱 I’m currently learning Elisp, Julia ...
+- 👀 I’m interested in Machine Learning and Linux {Arch Linux user -- Xmonad & Qtile}
+- 🌱 I’m currently learning Elisp, Julia ... {Python AI Researcher}
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me carlosreyesml18@gmail.com
 
